@@ -1,0 +1,27 @@
+import java.util.*;
+
+public class Boggle {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("aa");
+		Scanner sc = new Scanner(System.in);
+		//String total = sc.next();
+		 int input = sc.nextInt(); //int로 받기
+		 System.out.println(input);
+		// double input = sc.nextDouble(); // double로 받기
+		// String input = sc.next(); //공백을 기준으로 문자열 받기
+		String stunum;//student number 
+		String pair;
+		//for (int i = 0; i < Integer.parseInt(total); i++) {
+			
+			
+			
+			
+			
+
+		//}
+
+	}
+
+}
